@@ -96,11 +96,13 @@ def main():
 
     print()
     print()
-    print("Welcome to the program to calculate Area and Perimetres of a Triangle or Square")
+    print("Welcome to the program to calculate \nArea and Perimetres of a Triangle or Square")
     
     option = input("Select your option \nT) Calculate Triangle \nR) Calculate Rectangle \nQ) Quit \nWhat is your option: ").upper()
 
     while option != "Q":
+ 
+        print()
 
         if option == "T":
             print("Please introduce the information of the Triangle")
@@ -122,7 +124,6 @@ def main():
             option = input("Select your option \nT) Calculate Triangle \nR) Calculate Rectangle \nQ) Quit \nWhat is your option: ").upper()
 
         elif option == "R":  
-
             print("Please introduce the information of the Rectangle")
             name = input("Rectangle Name: ")
             s1 = int(input ("First Side of the Rectangle: "))
