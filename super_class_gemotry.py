@@ -116,14 +116,14 @@ def main():
             print(f"The Perimeter of the Triangle of {name} is: {p.display_perimeter()} ")
 
             p.calculate_area()  
-            print(f"The Are of the Triangle of {name} is: {p.display_area()} ")
+            print(f"The Are of the Triangle of {name} is: {p.display_area():.3} ")
 
             print()
 
 
             option = input("Select your option \nT) Calculate Triangle \nR) Calculate Rectangle \nQ) Quit \nWhat is your option: ").upper()
 
-        elif option == "R":  
+        elif option == "R":   
             print("Please introduce the information of the Rectangle")
             name = input("Rectangle Name: ")
             s1 = int(input ("First Side of the Rectangle: "))
@@ -134,7 +134,7 @@ def main():
             print(f"The Perimeter of the Recctangle of {name} is: {r.display_perimeter()} ")
 
             r.calculate_area()
-            print(f"The Are of the Rectangle of {name} is: {r.display_area()} square feet ")
+            print(f"The Are of the Rectangle of {name} is: {r.display_area():.3} square feet ")
 
             print()  
 
