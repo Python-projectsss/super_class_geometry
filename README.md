@@ -17,8 +17,8 @@ The Main purpose of the program is to learn more about Super Classes
 How we can inherit one class to another and use it.
 
 Tools
-Visual Studio Code Version: 1.54.3 (Universal)
-Python Extension: Python 2.7.16
+* Visual Studio Code Version: 1.54.3 (Universal)
+* Python Extension: Python 2.7.16
 
 All Rights reseverd
 ## Eddy Gonzalez
