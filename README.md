@@ -1,4 +1,4 @@
-# super_class_geometry
+# Super Class Geometry
 
 Welcome to the Super Class Example
 
