@@ -1,4 +1,5 @@
 # SUPER CLASS PYTHON
+# Made by Eddy Gonzalez
 # This is an example of a Super Class in python and how to implemented
 # I will use as an example geometry and how to get different Area and perimetres of a triangle
 # To Calculate the Area we will Use Heron's Formula
