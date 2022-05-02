@@ -94,6 +94,8 @@ class Rectangle_Formulas(Rectangle):
 
 def main():
 
+    print()
+    print()
     print("Welcome to the program to calculate Area and Perimetres of a Triangle or Square")
     
     option = input("Select your option \nT) Calculate Triangle \nR) Calculate Rectangle \nQ) Quit \nWhat is your option: ").upper()
