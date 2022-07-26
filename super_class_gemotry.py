@@ -19,7 +19,7 @@ class Triangle(object):
         self.s1 = s1
         self.s2 = s2
         self.s3 = s3
-    
+     
     def setName(self, name):
         self.name = name
 
